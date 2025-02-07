@@ -1,4 +1,4 @@
-# README: Airbnb Data Analysis
+# Airbnb Data Analysis
 
 ## Project Overview
 This project focuses on analyzing Airbnb listings data using Python. The Jupyter Notebook includes data exploration, visualization, and insights generation to understand various aspects of Airbnb properties.
@@ -38,7 +38,5 @@ pip install pandas numpy matplotlib seaborn
 - Open the Jupyter Notebook (`Airbnb_electro_pi.ipynb`).
 - Run the cells step by step to explore the data and visualizations.
 
-## Author
-This analysis was performed as part of a data exploration project. Feel free to modify or extend the notebook for further analysis!
 
 
